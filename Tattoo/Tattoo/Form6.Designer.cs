@@ -166,6 +166,7 @@
             this.label5.Size = new System.Drawing.Size(136, 15);
             this.label5.TabIndex = 18;
             this.label5.Text = "Посчитать стоимость";
+            this.label5.Visible = false;
             // 
             // label7
             // 
@@ -176,6 +177,7 @@
             this.label7.Size = new System.Drawing.Size(127, 15);
             this.label7.TabIndex = 22;
             this.label7.Text = "Введите количество";
+            this.label7.Visible = false;
             // 
             // textBox4
             // 
@@ -185,6 +187,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(120, 28);
             this.textBox4.TabIndex = 21;
+            this.textBox4.Visible = false;
             // 
             // label8
             // 
@@ -195,6 +198,7 @@
             this.label8.Size = new System.Drawing.Size(123, 15);
             this.label8.TabIndex = 24;
             this.label8.Text = "Введите стоимость";
+            this.label8.Visible = false;
             this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // textBox5
@@ -205,6 +209,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(123, 28);
             this.textBox5.TabIndex = 23;
+            this.textBox5.Visible = false;
             this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // button2
@@ -219,6 +224,7 @@
             this.button2.TabIndex = 25;
             this.button2.Text = "Посчитать";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Visible = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form6
