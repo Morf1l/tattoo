@@ -1,0 +1,79 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\bin\Debug\Tattoo.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\bin\Debug\Tattoo.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\bin\Debug\Tattoo.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.CopyComplete
+D:\1\tattoo\Tattoo\Tattoo\bin\Debug\Tattoo.exe.config
+D:\1\tattoo\Tattoo\Tattoo\bin\Debug\Tattoo.exe
+D:\1\tattoo\Tattoo\Tattoo\bin\Debug\Tattoo.pdb
+D:\1\tattoo\Tattoo\Tattoo\bin\Debug\System.Data.SQLite.dll
+D:\1\tattoo\Tattoo\Tattoo\bin\Debug\System.Data.SQLite.xml
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.AssemblyReference.cache
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form1.resources
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form2.resources
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form3.resources
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form4.resources
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form5.resources
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Properties.Resources.resources
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.GenerateResource.cache
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.CoreCompileInputs.cache
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.CopyComplete
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.exe
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.pdb
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form6.resources
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form7.resources
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form8.resources
+D:\1\tattoo\Tattoo\Tattoo\obj\Debug\Tattoo.Form9.resources
+E:\Tattoo\Tattoo\bin\Debug\Tattoo.exe.config
+E:\Tattoo\Tattoo\bin\Debug\Tattoo.exe
+E:\Tattoo\Tattoo\bin\Debug\Tattoo.pdb
+E:\Tattoo\Tattoo\bin\Debug\System.Data.SQLite.dll
+E:\Tattoo\Tattoo\bin\Debug\System.Data.SQLite.xml
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.AssemblyReference.cache
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Form1.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Form2.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Form3.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Form4.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Form5.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Form6.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Form7.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Form8.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Form9.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.Properties.Resources.resources
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.GenerateResource.cache
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.CoreCompileInputs.cache
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.CopyComplete
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.exe
+E:\Tattoo\Tattoo\obj\Debug\Tattoo.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\bin\Debug\Tattoo.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\bin\Debug\Tattoo.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\bin\Debug\Tattoo.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Form3.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Form4.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Form5.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Form6.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Form7.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Form8.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Form9.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Никитин Шутов\проект\Tattoo\Tattoo\obj\Debug\Tattoo.pdb
